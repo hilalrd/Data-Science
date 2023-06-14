@@ -15,4 +15,10 @@ This repository contains a Jupyter Notebook (`Churn_and_Not-Churn_Shoes_Classifi
 
 You can try out the model on Hugging Face's model hub: [ChustomerChurn](https://huggingface.co/spaces/hilalrd/CustomerChurn).
 
+## 3. BBCA Closing Price Prediction
+
+This repository contains a Jupyter Notebook (`BBCA_Closing_Price_Prediction_Model.ipynb`) that demonstrates a model trained to predict the closing price of BBCA stock for minimize investment losses.
+
+You can try out the model on Hugging Face's model hub: [BBCAClosingPrice](https://huggingface.co/spaces/hilalrd/PrediksiHargaPenutupan).
+
 Feel free to explore the notebook and experiment with the model! If you have any questions or feedback, please don't hesitate to reach out.
