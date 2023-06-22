@@ -27,7 +27,9 @@ This repository contains a Jupyter Notebook (`Credit_Default_Classsification_Mod
 
 ## 5. Trend Of Banking Stock Movement
 
-This repository contains a Jupyter Notebook (`Trend_of_Bangking_Stock_Movement.ipynb`) that analysis and visualization of the current trend of stock movements within the banking sector for investment based o historical data trade.
+This repository contains a Jupyter Notebook (`Trend_of_Bangking_Stock_Movement.ipynb`) that analysis and visualization of the current trend of stock movements within the banking sector for investment based on historical data trade.
+
+You can see data visualization on looker studio hub: [Trendofstock](https://lookerstudio.google.com/reporting/2b8ed0b1-ec4e-45ea-be98-53c953d1c7c7)
 
 
 Feel free to explore the notebook and experiment with the model! If you have any questions or feedback, please don't hesitate to reach out.
